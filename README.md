@@ -63,6 +63,6 @@
         <h2>Welcome to the New Wikipedia Design</h2>
         <p>This is a modern redesign of Wikipedia with an improved user interface, better readability, and a sleek layout.</p>
     </div>
-    <footer>© 2025 Wikipedia Redesign - Not Affiliated with Wikipedia @Ashiq</footer>
+    <footer>   © 2025 Wikipedia Redesign - Not Affiliated with Wikipedia @Ashiq   </footer>
 </body>
 </html>
